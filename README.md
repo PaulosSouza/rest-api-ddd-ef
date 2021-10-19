@@ -1,4 +1,4 @@
-# ASP.NET Core & EntityFramework Core using DDD concepts
+# ASP.NET Core & EntityFramework Core using DDD Concepts
 
 This template is a simple startup project to start
 using ASP.NET Core and EntityFramework Core with DDD concepts.
